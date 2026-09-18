@@ -18,4 +18,4 @@ A C# desktop-based Car Rental Management System developed as an academic project
 
 ## Documentation
 
-[View Project Report](Documentation/Project-Report.pdf)
+[View Project Report](Documentation/car-rental-management-system-report.pdf)
